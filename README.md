@@ -1,7 +1,3 @@
-
-
-
-
 # number-shortener
 
 Takes a long number and translates to a beautifully short number.
